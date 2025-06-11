@@ -148,7 +148,7 @@ main {
   background-color: #67b4f3;
 }
 
-@media(max-width: 426px){
+@media(max-width: 540px){
   .card{
     width: 100%;
     flex-direction: column;
